@@ -89,6 +89,7 @@ com.simulador.credito
 
 ## ✨ Melhorias futuras
 
+- Documentação Swagger
 - Geração de novas propostas
 - Autenticação JWT
 - Integração com banco de dados
